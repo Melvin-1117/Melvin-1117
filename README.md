@@ -1,20 +1,26 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Antony%20Melvin&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descColor=8b949e)
+![header](header.svg)
 
 </div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=100&lines=%24+whoami+%E2%86%92+Antony+Melvin%2C+CSE+Student;%24+status+%E2%86%92+Open+to+internships+%26+roles++%E2%9C%93;%24+stack++%E2%86%92+Full-Stack+%C2%B7+Mobile+%C2%B7+Backend" alt="Typing SVG" />
+  </a>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  $ whoami      →  Antony Melvin, CSE Student                ║
-║  $ status      →  Open to internships & roles  ✓            ║
-║  $ stack       →  Full-Stack · Mobile · Backend             ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Role-CSE_Student_%26_Developer-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Role"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities_%E2%9C%93-00c853?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%C2%B7_Mobile_%C2%B7_Backend-bd93f9?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -83,6 +89,8 @@ const melvin = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -123,6 +131,6 @@ const melvin = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Melvin-1117&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
+![footer](footer.svg)
 
 </div>
