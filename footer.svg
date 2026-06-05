@@ -7,15 +7,21 @@
     </linearGradient>
   </defs>
 
-  <!-- Wave layer 1 -->
+  <!-- Wave layer 1 — smooth spline easing -->
   <path fill="url(#footerGrad)">
-    <animate attributeName="d" dur="20s" repeatCount="indefinite"
-      values="M0 40Q300 0 600 30T1200 15L1200 120L0 120Z;M0 20Q300 50 600 25T1200 40L1200 120L0 120Z;M0 35Q300 10 600 40T1200 20L1200 120L0 120Z;M0 40Q300 0 600 30T1200 15L1200 120L0 120Z"/>
+    <animate attributeName="d" dur="30s" repeatCount="indefinite"
+      calcMode="spline"
+      keyTimes="0;0.5;1"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M0 35Q300 5 600 30Q900 55 1200 20L1200 120L0 120Z;M0 20Q300 50 600 25Q900 5 1200 40L1200 120L0 120Z;M0 35Q300 5 600 30Q900 55 1200 20L1200 120L0 120Z"/>
   </path>
 
-  <!-- Wave layer 2 -->
+  <!-- Wave layer 2 — offset timing -->
   <path fill="url(#footerGrad)" opacity="0.5">
-    <animate attributeName="d" dur="15s" repeatCount="indefinite" begin="-5s"
-      values="M0 50Q300 15 600 40T1200 30L1200 120L0 120Z;M0 30Q300 55 600 35T1200 50L1200 120L0 120Z;M0 45Q300 20 600 45T1200 25L1200 120L0 120Z;M0 50Q300 15 600 40T1200 30L1200 120L0 120Z"/>
+    <animate attributeName="d" dur="25s" repeatCount="indefinite" begin="-12s"
+      calcMode="spline"
+      keyTimes="0;0.5;1"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M0 45Q300 15 600 40Q900 65 1200 30L1200 120L0 120Z;M0 30Q300 55 600 35Q900 10 1200 50L1200 120L0 120Z;M0 45Q300 15 600 40Q900 65 1200 30L1200 120L0 120Z"/>
   </path>
 </svg>

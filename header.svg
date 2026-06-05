@@ -30,16 +30,22 @@
     <circle cx="1050" cy="60" r="1.5"/><circle cx="1100" cy="60" r="1.5"/><circle cx="1150" cy="60" r="1.5"/>
   </g>
 
-  <!-- Animated wave layer 1 -->
+  <!-- Animated wave layer 1 — smooth spline easing, longer duration -->
   <path fill="url(#waveGrad1)" opacity="0.4">
-    <animate attributeName="d" dur="20s" repeatCount="indefinite"
-      values="M0 160Q300 200 600 170T1200 185L1200 220L0 220Z;M0 180Q300 150 600 165T1200 170L1200 220L0 220Z;M0 170Q300 195 600 180T1200 160L1200 220L0 220Z;M0 160Q300 200 600 170T1200 185L1200 220L0 220Z"/>
+    <animate attributeName="d" dur="30s" repeatCount="indefinite"
+      calcMode="spline"
+      keyTimes="0;0.5;1"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M0 165Q300 195 600 170Q900 145 1200 180L1200 220L0 220Z;M0 180Q300 155 600 175Q900 195 1200 165L1200 220L0 220Z;M0 165Q300 195 600 170Q900 145 1200 180L1200 220L0 220Z"/>
   </path>
 
-  <!-- Animated wave layer 2 -->
-  <path fill="url(#waveGrad2)" opacity="0.35">
-    <animate attributeName="d" dur="15s" repeatCount="indefinite" begin="-5s"
-      values="M0 175Q300 210 600 185T1200 195L1200 220L0 220Z;M0 195Q300 165 600 180T1200 185L1200 220L0 220Z;M0 185Q300 200 600 190T1200 175L1200 220L0 220Z;M0 175Q300 210 600 185T1200 195L1200 220L0 220Z"/>
+  <!-- Animated wave layer 2 — offset timing for depth -->
+  <path fill="url(#waveGrad2)" opacity="0.3">
+    <animate attributeName="d" dur="25s" repeatCount="indefinite" begin="-12s"
+      calcMode="spline"
+      keyTimes="0;0.5;1"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M0 175Q300 205 600 185Q900 165 1200 190L1200 220L0 220Z;M0 190Q300 165 600 180Q900 200 1200 175L1200 220L0 220Z;M0 175Q300 205 600 185Q900 165 1200 190L1200 220L0 220Z"/>
   </path>
 
   <!-- Accent line -->
