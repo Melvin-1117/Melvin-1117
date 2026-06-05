@@ -1,60 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Antony%20Melvin&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=60&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Antony%20Melvin&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
-  
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  > Initializing developer profile...                         ║
-║  > Loading skills and experience...                          ║
-║  > Status: Open to opportunities ✓                           ║
+║  $ whoami          → Antony Melvin, CSE Student             ║
+║  $ status          → Open to internships & roles ✓          ║
+║  $ stack           → Full-Stack · Mobile · Backend          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<br/>
+---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 👋 Hello, World! I'm **Antony Melvin**
+### Antony Melvin &nbsp;·&nbsp; Software Engineer in the Making
 
-🎓 **CSE Student** | Passionate Problem-Solver  
-🔭 Currently building **full-stack & mobile** apps  
-🌱 Continuously learning **new frameworks & technologies**  
-💡 Love turning ideas into **real-world products**  
-🚀 Seeking internships & collaborative projects  
-⚡ Fun fact: I debug at 2AM and still love it
+```javascript
+const melvin = {
+  role:      "CSE Student & Developer",
+  building:  ["Full-Stack Apps", "Cross-platform Mobile", "REST APIs"],
+  learning:  ["System Design", "Advanced DSA", "Cloud Architecture"],
+  goal:      "Ship software that solves real problems",
+  available: true  // actively seeking internships
+};
+```
 
-<br/><br/><br/>
+<br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antony-melvin-7a955531b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m3lvin_29)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonymelvin329@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonymelvin329@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melvin-1117)
-
-</div>
-
----
-
-## 🧠 What I Bring to the Table
-
-<div align="center">
-
-| 🎯 Problem Solving | 🛠️ Full-Stack Dev | 📱 Mobile Dev | ☁️ Cloud & DevOps |
-|:-:|:-:|:-:|:-:|
-| DSA in Java & C++ | React, Next.js, Angular | Flutter & React Native | Firebase, Google Cloud |
-| Clean Code Practices | Node.js, FastAPI, Django | Dart & Kotlin | Netlify, Vercel |
-| System Design Thinking | REST APIs & Databases | Cross-platform Apps | PostgreSQL, MySQL |
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m3lvin_29)
 
 </div>
 
@@ -62,45 +51,26 @@
 
 ## 💻 Tech Stack
 
-### 🗣️ Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🎨 Frontend
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -131,34 +101,12 @@
 
 ---
 
-## 🎯 Currently Focused On
-
-```javascript
-const melvin = {
-  learning:    ["System Design", "Advanced DSA", "Cloud Architecture"],
-  building:    ["Full-Stack Web Apps", "Cross-platform Mobile Apps"],
-  exploring:   ["AI/ML Integration", "DevOps Practices"],
-  goal:        "Land an impactful software engineering role 🚀",
-  available:   true  // Open to internships & collaborations!
-};
-```
-
----
-
-## 💬 Let's Build Something Amazing
-
 <div align="center">
 
-> *"The best way to predict the future is to invent it."* — Alan Kay
+*Building software that matters. Open to internships, collaborations, and interesting problems.*
 
-[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-antonymelvin329%40gmail.com-EA4335?style=for-the-badge)](mailto:antonymelvin329@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/🤝%20Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/antony-melvin-7a955531b)
-
-</div>
-
----
-
-<div align="center">
+[![Email](https://img.shields.io/badge/📧%20antonymelvin329%40gmail.com-EA4335?style=for-the-badge)](mailto:antonymelvin329@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/antony-melvin-7a955531b)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Melvin-1117&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
