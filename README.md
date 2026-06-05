@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Antony%20Melvin&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descColor=8b949e" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Antony%20Melvin&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descColor=8b949e)
 
 </div>
 
@@ -8,9 +8,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  $ whoami          → Antony Melvin, CSE Student             ║
-║  $ status          → Open to internships & roles ✓          ║
-║  $ stack           → Full-Stack · Mobile · Backend          ║
+║  $ whoami      →  Antony Melvin, CSE Student                ║
+║  $ status      →  Open to internships & roles  ✓            ║
+║  $ stack       →  Full-Stack · Mobile · Backend             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -18,21 +18,34 @@
 
 ---
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 🧑‍💻 About Me
 
-### Antony Melvin &nbsp;·&nbsp; Software Engineer in the Making
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```javascript
 const melvin = {
   role:      "CSE Student & Developer",
-  building:  ["Full-Stack Apps", "Cross-platform Mobile", "REST APIs"],
-  learning:  ["System Design", "Advanced DSA", "Cloud Architecture"],
+  building:  ["Full-Stack Apps",
+              "Cross-platform Mobile",
+              "REST APIs"],
+  learning:  ["System Design",
+              "Advanced DSA",
+              "Cloud Architecture"],
   goal:      "Ship software that solves real problems",
-  available: true  // actively seeking internships
+  available:  true  // actively seeking internships
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,7 +77,7 @@ const melvin = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Data
+### Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -110,6 +123,6 @@ const melvin = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Melvin-1117&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
 
 </div>
