@@ -24,33 +24,127 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> About Me
+
+<div align="center">
 
 <table>
 <tr>
 <td valign="top" width="55%">
 
-```javascript
+<div align="left">
+
+```js
+// ⚡ melvin.config.js
+
 const melvin = {
-  role:      "CSE Student & Developer",
-  building:  ["Full-Stack Apps",
-              "Cross-platform Mobile",
-              "REST APIs"],
-  learning:  ["System Design",
-              "Advanced DSA"],
-  goal:      "Ship software that solves real problems",
-  available:  true  // actively seeking internships
+  name:       "Antony Melvin T",
+  role:       "CSE Student & Developer",
+  
+  building:   ["Full-Stack Web Apps",
+                "Cross-platform Mobile",
+                "REST APIs"],
+
+  learning:   ["System Design",
+                "Advanced DSA",
+                "Cloud Architecture"],
+
+  goal:       "Ship software that solves real problems",
+  available:   true  // 🔥 actively seeking internships
 };
+
+module.exports = melvin;
 ```
+
+</div>
 
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=800&color=bd93f9&center=true&vCenter=true&repeat=true&width=300&height=30&lines=%F0%9F%92%A1+Turning+ideas+into+products;%F0%9F%94%A5+Debugging+at+2AM+and+loving+it;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Sub Typing SVG" />
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/🎓_B.Tech-CSE-58a6ff?style=flat-square&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_Based_in-India-ff6e96?style=flat-square&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/💼_Open_to-Internships-00c853?style=flat-square&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/☕_Fueled_by-Coffee_&_Curiosity-ff9e64?style=flat-square&labelColor=1a1b27" />
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="100" alt="Quickdraw"/>
+<br/>
+<strong>Quickdraw</strong>
+<br/>
+<sub>⚡ Closed an issue / PR within 5 min of opening</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/✅_Unlocked-00c853?style=flat-square&labelColor=1a1b27" />
+
+</td>
+<td align="center" width="200">
+
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="100" alt="Pull Shark"/>
+<br/>
+<strong>Pull Shark</strong>
+<br/>
+<sub>🦈 Opened pull requests that have been merged</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/🔒_Locked-6e7681?style=flat-square&labelColor=1a1b27" />
+
+</td>
+<td align="center" width="200">
+
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="100" alt="YOLO"/>
+<br/>
+<strong>YOLO</strong>
+<br/>
+<sub>🤠 Merged a PR without code review</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/🔒_Locked-6e7681?style=flat-square&labelColor=1a1b27" />
+
+</td>
+<td align="center" width="200">
+
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="100" alt="Starstruck"/>
+<br/>
+<strong>Starstruck</strong>
+<br/>
+<sub>⭐ Created a repo that earned 16+ stars</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/🔒_Locked-6e7681?style=flat-square&labelColor=1a1b27" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🏅_Achievement_Score-1%2F4_Unlocked-58a6ff?style=for-the-badge&labelColor=0d1117" />
+
+</div>
 
 ---
 
@@ -107,16 +201,6 @@ const melvin = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Melvin-1117&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Melvin-1117&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
 </div>
 
 ---
