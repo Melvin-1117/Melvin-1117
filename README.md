@@ -37,8 +37,7 @@ const melvin = {
               "Cross-platform Mobile",
               "REST APIs"],
   learning:  ["System Design",
-              "Advanced DSA",
-              "Cloud Architecture"],
+              "Advanced DSA"],
   goal:      "Ship software that solves real problems",
   available:  true  // actively seeking internships
 };
