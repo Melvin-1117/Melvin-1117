@@ -75,7 +75,7 @@ module.exports = melvin;
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/🎓_B.Tech-CSE-58a6ff?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🎓_B.E-CSE-58a6ff?style=flat-square&labelColor=1a1b27" />
   &nbsp;
   <img src="https://img.shields.io/badge/📍_Based_in-India-ff6e96?style=flat-square&labelColor=1a1b27" />
   &nbsp;
